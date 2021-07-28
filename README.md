@@ -13,4 +13,16 @@ Note: It's the best to use google colab; easy to upload the json key file then r
     - CMap BQ toolkit documentation: https://cmapbq.readthedocs.io
 - cmapBQ user guide: https://cmapbq.readthedocs.io/en/latest/setup-guide.html (Highly Recommend)
 - Github repo for cmapBQ data access section: https://github.com/cmap/lincs-workshop-2020/tree/main/notebooks/data_access
+
+Ways to directly get the data (Used for small dataset such as metadata)
 ![截屏2021-07-28 上午11 53 00](https://user-images.githubusercontent.com/57332047/127260871-f64059e4-2455-43dd-a753-577b0f01fd55.png)
+
+![截屏2021-07-28 上午11 53 54](https://user-images.githubusercontent.com/57332047/127261071-62926bc9-96e6-4366-9625-c4069a36d9d8.png)
+
+![截屏2021-07-28 上午11 55 07](https://user-images.githubusercontent.com/57332047/127261085-80986eed-7955-4107-9f81-a3678cfbcbc8.png)
+
+![截屏2021-07-28 上午11 55 23](https://user-images.githubusercontent.com/57332047/127261096-34ab05a6-1f14-45d1-ac72-d8182f410582.png)
+
+
+Way to get large dataset, filtered what you want then retrieve it:
+Use Cmap BQ toolkit
